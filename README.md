@@ -20,7 +20,7 @@ Copy the HTTP link.
 
 Go to the Terminal and type `git clone {link you cloned}`
 
-A folder should be created called `git-workshop`.
+A folder should be created called `WITSOC-X-UCIEEE-workshop`.
 
 ### Step Three: Create a new document
 Create a document, call it anything you want - ideally something unique so there are no double ups!
