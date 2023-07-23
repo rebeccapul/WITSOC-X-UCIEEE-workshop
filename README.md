@@ -14,7 +14,7 @@ Create a folder called `git workshop` or similar somewhere you will find it.
 Right click on the folder and select `Open in Terminal`.
 
 ### Step Two: Clone the repository
-Click the blue drop down menu that says `Code` in the top right hand corner of the page. 
+Click the green drop down menu that says `Code` in the top right hand corner of this page. 
 
 Copy the HTTP link.
 
