@@ -20,17 +20,20 @@ Copy the HTTP link.
 
 Go to the Terminal and type `git clone {link you cloned}`
 
-A folder should be created called `git-workshop`.
+A folder should be created called `WITSOC-X-UCIEEE-workshop`.
 
 ### Step Three: Create a new document
 Create a document, call it anything you want - ideally something unique so there are no double ups!
 
+Do not use commas, apostrophes, slashes or any type of brackets in the name of your document.
+
 You can put anything you want in it, it can be a text file, python file, Java file or even an image.
 
-Make sure to save it into the `git-workshop` folder.
+Make sure to save it into the `WITSOC-X-UCIEEE-workshop` folder.
 
 ### Step Four: Add the file to git
 Now back to the Terminal:
+- First enter the command `cd WITSOC-X-UCIEEE-workshop` to change tell the command line to look at folder created in step two.
 - Enter the command `git status` you should see something along the lines and the filename should be red:
 ```
 Untracked files:
