@@ -33,7 +33,7 @@ Make sure to save it into the `WITSOC-X-UCIEEE-workshop` folder.
 
 ### Step Four: Add the file to git
 Now back to the Terminal:
-- First enter the command `cd WITSOC-X-UCIEEE-workshop` to change tell the command line to look at folder created in step two.
+- First enter the command `cd WITSOC-X-UCIEEE-workshop` to change tell the command line to look in the folder created in step two.
 - Enter the command `git status` you should see something along the lines and the filename should be red:
 ```
 Untracked files:
