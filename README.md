@@ -33,7 +33,7 @@ Make sure to save it into the `WITSOC-X-UCIEEE-workshop` folder.
 
 ### Step Four: Add the file to git
 Now back to the Terminal:
-- First enter the command `cd WITSOC-X-UCIEEE-workshop` to change tell the command line to look in the folder created in step two.
+- First enter the command `cd WITSOC-X-UCIEEE-workshop` to change tell the command line to look in the folder created in step two. Make sure to press Enter to execute the command.
 - Enter the command `git status` you should see something along the lines and the filename should be red:
 ```
 Untracked files:
@@ -42,7 +42,7 @@ Untracked files:
 ```
 "[Untracked] basically means Git is aware the file exists, but still hasn't saved it in its internal database" - https://www.cloudbees.com/blog/git-remove-untracked-files 
 
-- Enter the command `git add <file name>`, this adds the new file to the staging area and means that the git will now track the file.
+- Enter the command git add <file name>, this adds the new file to the staging area and means that the git will now track the file. Don't include the < and > symbols - We just use these to show you where to write! Make sure to include the suffix of your file eg .docx, .py, .txt etc... 
 - If you re-enter `git status` you will notice that your file is now tracked. This means it is ready to be committed and then pushed to the remote repository where we will be able to find it on GitLab!
 
 The output should now look like below and the file name is green:
